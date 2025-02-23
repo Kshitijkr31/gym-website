@@ -1,0 +1,18 @@
+# Node modules (backend & frontend)
+node_modules/
+ 
+# Build files (Vite build output)
+dist/
+
+# Environment variables
+.env
+config.env
+
+# Logs
+*.log
+logs/
+ 
+# OS/Editor specific files
+.DS_Store
+.vscode/
+.idea/
